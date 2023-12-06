@@ -1,4 +1,3 @@
-
 /*
  * License: GNU GPL v3.0
  *
@@ -7,7 +6,6 @@
  * Version 2.12.2
  * Explore my contributions at: https://github.com/therealvoric
  */
-
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WebServer.h>
