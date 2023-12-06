@@ -1,3 +1,13 @@
+
+/*
+ * License: GNU GPL v3.0
+ *
+ * Created by therealvoric on GitHub
+ * 🚀 on 6.12.23, 7:48 AM
+ * Version 2.12.2
+ * Explore my contributions at: https://github.com/therealvoric
+ */
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WebServer.h>
